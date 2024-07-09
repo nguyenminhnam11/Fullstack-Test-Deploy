@@ -1,0 +1,11 @@
+.userTable {
+    width: 60%;
+    margin: 50px auto;
+    background-color: aquamarine;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.userTable th,td {
+    text-align: center;
+}
